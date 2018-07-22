@@ -1,0 +1,7 @@
+In the network model of Decentralised Services, applications distribute their workload over multiple hosts.[1] In some cases, the dApp is composed of components, each running on any random and independent host that provides the requisite services.[2]. It is very complex to manage the decentralised network. The administration of the network is also very complex. A problem of these approaches arises when a node fails to provide the desired service. In this case, the network has to look for the service in another node. If it still cannot find the node with the desied service, it will keep on looking in different nodes.  If the requested service is not found, there has to be some kind of timeout agreement in order to prevent the user having to wait endlessly. [1]The problem with system implemented with peers is that no one is responsible. If someone uploads a family picture, and ten years later, he wants the photo that is stored in the decentralised network, all those nodes may have been gone. The data might have been erased unknowingly years before.[3] Moreover, there is a lack of trust as well. No one will be willing to store their personal data on random systems. There would be no issues with transient or entertainment data, but what about personal data such as family photos.
+
+
+
+[1]Simone A. Ludwig, "COMPARISON OF CENTRALIZED AND DECENTRALIZED SERVICE DISCOVERY IN A GRID ENVIRONMENT" ,Brunel University
+[2]J. Smith, Distributed computing with Aglets, White Paper.
+[3]Robert W. Lucky, "The Lure of Decentraisation", IEEE Spectrum,Pg 23, November 2017
