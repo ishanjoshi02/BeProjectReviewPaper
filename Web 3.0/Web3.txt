@@ -1,1 +1,0 @@
-To address the lack of structure introduced by Web 2.0, Web 3.0 is instigated [3]. Web 3.0 is an extension of the current web which aims at understanding the meaning of the keywords provided. This is known as semantic web and it enables data linking between any two sources which can be understood by the computers [4].
